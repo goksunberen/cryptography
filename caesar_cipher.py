@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 12 23:04:29 2021
-
-@author: goksun
-
+@author: goksunberen
 Caesar Cipher
 """
 
